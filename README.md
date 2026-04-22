@@ -311,7 +311,7 @@ meu-modulo/
 
 <div align="center">
 
-Parte do [🚀 DevOps Roadmap — Do Zero ao Profissional](https://github.com/viniciusldiniz/DevOps-Cheat-Sheets)
+Parte do [🚀 DevOps Roadmap — Do Zero ao Profissional](https://github.com/viniciusldiniz/DevOps-Roadmap)
 
 **Encontrou algo errado ou quer adicionar um comando? [Abra um PR!](https://github.com/viniciusldiniz/DevOps-Cheat-Sheets/pulls)**
 
